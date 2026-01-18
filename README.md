@@ -1,6 +1,6 @@
 # 🛡️ CurseForge API Proxy Server for ReaLauncher
 
-A dedicated, secure proxy server designed to act as a guardian between the **ReaLauncher** application and the **CurseForge API**.
+A dedicated, secure proxy server designed to act as a guardian between the **[ReaLauncher](https://github.com/ReaQwQ/ReaLauncher)** application and the **CurseForge API**.
 
 ---
 
