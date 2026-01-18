@@ -1,0 +1,34 @@
+{
+    "name": "curseforge-proxy-server",
+    "version": "1.0.0",
+    "description": "Secure proxy server for CurseForge API - Manage your API key safely on the server side",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ReaQwQ/CurseForgeProxyServer.git"
+    },
+    "homepage": "https://github.com/ReaQwQ/CurseForgeProxyServer#readme",
+    "bugs": {
+        "url": "https://github.com/ReaQwQ/CurseForgeProxyServer/issues"
+    },
+    "keywords": [
+        "curseforge",
+        "proxy",
+        "minecraft",
+        "api",
+        "server",
+        "security"
+    ],
+    "author": "ReaLauncher",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.2",
+        "cors": "^2.8.5",
+        "axios": "^1.6.0",
+        "dotenv": "^16.3.1"
+    }
+}
