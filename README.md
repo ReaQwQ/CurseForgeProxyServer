@@ -25,7 +25,7 @@ Ready to get this running? It's easier than installing a modpack!
 npm install
 cp .env.example .env
 PORT=3001
-CURSEFORGE_API_KEY=your_super_secret_api_key_here
+CURSEFORGE_API_KEY=YOUR_API_KEY
 # For development (auto-restart)
 npm run dev
 
@@ -66,7 +66,3 @@ The proxy handles the authentication headers for you! ✨
 
 This project is licensed under the **MIT License**.
 Feel free to fork, modify, and use it to build amazing things!
-
----
-
-*Made with ❤️ for the Minecraft Modding Community.*
